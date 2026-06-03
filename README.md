@@ -16,14 +16,14 @@
 
 ## 🚀 About Me
 
-I am a Full Stack & Mobile Developer passionate about building scalable software products that solve real-world problems.
+I am a Full Stack & Mobile Developer passionate about building software products that solve real-world problems and create meaningful impact.
 
 My experience spans backend engineering, web development, mobile application development, and product deployment. I enjoy transforming ideas into production-ready solutions by taking projects from architecture and development to deployment and maintenance.
 
 * Full Stack Developer specializing in Java, Spring Boot, React, Next.js, Flutter, Kotlin, and MySQL
 * Built and deployed production-ready web and mobile applications
 * Published Android applications on Google Play Store
-* Contributing to the development of Golden Verdict, a live legal-tech platform
+* Contributing to the architecture, development, deployment, and enhancement of Golden Verdict, a live legal-tech platform
 * Former Full Stack Developer Intern at KaHa Pte Ltd (COVE IoT)
 * Strong foundation in Backend Systems, REST APIs, Database Design, and Software Architecture
 
@@ -33,42 +33,49 @@ My experience spans backend engineering, web development, mobile application dev
   <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,flutter,kotlin,mysql,js,ts,html,css,firebase,git,github,vscode,androidstudio" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalbg02&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalbg02&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 ## 🌟 Featured Projects
 
 ### 🌐 Golden Verdict
 
-A live legal-tech platform focused on simplifying access to legal and business services through a modern digital experience.
+Live legal-tech platform focused on simplifying access to legal and business services through a modern digital experience.
+
+**Tech Stack:** Next.js, Spring Boot, MySQL, REST APIs
 
 🔗 https://goldenverdict.com
 
 ### 🏛️ Christ University Virtual Tour
 
-An immersive virtual tour platform developed to provide interactive digital exploration and engagement.
+Interactive virtual tour platform developed to provide immersive digital exploration and engagement.
+
+**Tech Stack:** React, TypeScript, Vercel
 
 🔗 https://virtual-tour-opal.vercel.app
 
 ### 🔗 ZeroConnect
 
-A secure peer-to-peer communication platform designed for direct offline communication, enabling reliable messaging without dependency on centralized servers.
+Secure peer-to-peer communication platform designed for direct offline communication without centralized servers.
+
+**Tech Stack:** Java, Networking, Socket Programming
 
 🔗 https://github.com/sambhav302005-coder/ZeroConnect---Secure-P2P-Communication-Platform
 
-## 🎯 Current Focus
+## 🚀 Currently Working On
+
+* Building scalable web and mobile applications
+* Full Stack Development with Spring Boot, React, and Next.js
+* Mobile Application Development using Flutter and Kotlin
+* Backend Architecture and API Development
+* Modern Software Engineering Practices
+* Product Development and Deployment
+
+## 🎯 Areas of Interest
 
 * Software Engineering
 * Full Stack Development
 * Mobile Application Development
-* Scalable Backend Systems
+* Backend Systems
 * System Design
-* Product Development
-* Modern Web Technologies
+* Product Engineering
 
 ## 📫 Connect With Me
 
