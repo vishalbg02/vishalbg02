@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="54" viewBox="0 0 1000 54">
-<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#C49639"/><stop offset="1" stop-color="#C49639" stop-opacity="0"/></linearGradient></defs>
-<rect x="0" y="12" width="6" height="30" rx="3" fill="#C49639"/>
-<text x="20" y="37" fill="#C49639" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:22px;font-weight:800;letter-spacing:3px">FEATURED PROJECTS</text>
-<rect x="325" y="26" width="635" height="2" fill="url(#l)"></rect></svg>

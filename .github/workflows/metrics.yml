@@ -1,0 +1,35 @@
+name: Generate 3D contribution calendar
+
+on:
+  schedule:
+    - cron: "30 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: isocalendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: vishalbg02
+          output_action: none
+          base: ""
+          config_timezone: Asia/Kolkata
+          config_display: large
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+      - run: mkdir -p dist && sudo cp /metrics_renders/isocalendar.svg dist/ && sudo chown -R $USER dist
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: metrics
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

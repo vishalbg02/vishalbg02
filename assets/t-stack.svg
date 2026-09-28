@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="54" viewBox="0 0 1000 54">
-<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#C49639"/><stop offset="1" stop-color="#C49639" stop-opacity="0"/></linearGradient></defs>
-<rect x="0" y="12" width="6" height="30" rx="3" fill="#C49639"/>
-<text x="20" y="37" fill="#C49639" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:22px;font-weight:800;letter-spacing:3px">TECH STACK</text>
-<rect x="206" y="26" width="754" height="2" fill="url(#l)"></rect></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="60" viewBox="0 0 1000 60">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient>
+<linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#30363d"/><stop offset=".5" stop-color="#a371f7" stop-opacity=".7"/><stop offset="1" stop-color="#30363d"/></linearGradient></defs>
+<rect x="0" y="29" width="1000" height="1" fill="url(#l)"/>
+<g transform="translate(500,30)">
+<rect x="-124" y="-19" width="248" height="38" rx="19" fill="#0d1117" stroke="url(#g)"/>
+<text x="0" y="6" text-anchor="middle" fill="#e6edf3" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:16px;font-weight:700;letter-spacing:2px"><tspan fill="#a371f7">{ }</tspan> TECH STACK</text></g></svg>
