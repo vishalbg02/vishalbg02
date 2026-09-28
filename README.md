@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/vishalbg02">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=A371F7&center=true&vCenter=true&width=640&lines=Building+things+that+ship+%F0%9F%9A%80;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Next.js;Flutter+%E2%80%A2+React+Native+%E2%80%A2+GenAI+APIs;Always+learning.+Always+building." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=3FB950&center=true&vCenter=true&width=640&lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Next.js;Flutter+%E2%80%A2+React+Native+%E2%80%A2+GenAI+APIs;Always+learning.+Always+building." alt="typing" />
   </a>
 </p>
 
@@ -10,7 +10,6 @@
   <a href="tel:+919663972259"><img src="https://img.shields.io/badge/+91_96639_72259-0d1117?style=for-the-badge&logo=whatsapp&logoColor=3fb950&labelColor=0d1117" /></a>
   <a href="mailto:vishalbg02@gmail.com"><img src="https://img.shields.io/badge/vishalbg02@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ff7b72&labelColor=0d1117" /></a>
   <a href="https://linkedin.com/in/vishalbg"><img src="https://img.shields.io/badge/in/vishalbg-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117" /></a>
-  <img src="https://komarev.com/ghpvc/?username=vishalbg02&label=VIEWS&color=a371f7&style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <br/>
@@ -38,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalbg02&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a371f7&fire=a371f7&currStrLabel=a371f7&stroke=30363d" width="88%" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=vishalbg02&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStrLabel=3fb950&currStrNum=e6edf3&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e&stroke=30363d" width="88%" alt="streak" />
 </p>
 
 <picture>
@@ -58,4 +57,4 @@
   <a href="https://linkedin.com/in/vishalbg"><img src="https://img.shields.io/badge/LinkedIn-vishalbg-58a6ff?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:a371f7&height=110&section=footer" width="100%" />
+<img src="./assets/footer.svg" width="100%" alt="thanks for visiting" />

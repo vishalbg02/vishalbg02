@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="70" viewBox="0 0 1000 70">
+<line x1="0" y1="20" x2="1000" y2="20" stroke="#30363d"/>
+<text x="500" y="52" text-anchor="middle" fill="#8b949e" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:13px">$ exit <tspan fill="#30363d">·</tspan> thanks for visiting <tspan fill="#3fb950">●</tspan></text></svg>
