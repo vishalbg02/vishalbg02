@@ -26,7 +26,11 @@ jobs:
           config_display: large
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - run: mkdir -p dist && sudo cp /metrics_renders/isocalendar.svg dist/ && sudo chown -R $USER dist
+      - name: Recolour for GitHub dark theme
+        run: |
+          mkdir -p dist && sudo cp /metrics_renders/isocalendar.svg dist/ && sudo chown -R $USER dist
+          sed -i -e 's/#ebedf0/#161b22/gI' -e 's/#9be9a8/#0e4429/gI' -e 's/#40c463/#006d32/gI' \
+                 -e 's/#30a14e/#26a641/gI' -e 's/#216e39/#39d353/gI' dist/isocalendar.svg
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: metrics
