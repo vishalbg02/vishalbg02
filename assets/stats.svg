@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="128" viewBox="0 0 1000 128">
+<rect width="1000" height="128" rx="16" fill="#0D1B3E" stroke="#C49639" stroke-opacity=".45"/><g transform="translate(0,0)">
+<text x="100" y="62" text-anchor="middle" fill="#E8C77A" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:38px;font-weight:800">2</text>
+<text x="100" y="92" text-anchor="middle" fill="#C9D3F0" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13px;font-weight:500">Industry Internships</text>
+<line x1="200" y1="28" x2="200" y2="100" stroke="#C49639" stroke-opacity=".35"/></g><g transform="translate(200,0)">
+<text x="100" y="62" text-anchor="middle" fill="#E8C77A" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:38px;font-weight:800">2</text>
+<text x="100" y="92" text-anchor="middle" fill="#C9D3F0" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13px;font-weight:500">Live Products Shipped</text>
+<line x1="200" y1="28" x2="200" y2="100" stroke="#C49639" stroke-opacity=".35"/></g><g transform="translate(400,0)">
+<text x="100" y="62" text-anchor="middle" fill="#E8C77A" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:38px;font-weight:800">4×</text>
+<text x="100" y="92" text-anchor="middle" fill="#C9D3F0" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13px;font-weight:500">Hackathon Podiums</text>
+<line x1="200" y1="28" x2="200" y2="100" stroke="#C49639" stroke-opacity=".35"/></g><g transform="translate(600,0)">
+<text x="100" y="62" text-anchor="middle" fill="#E8C77A" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:38px;font-weight:800">50+</text>
+<text x="100" y="92" text-anchor="middle" fill="#C9D3F0" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13px;font-weight:500">Services on Golden Verdict</text>
+<line x1="200" y1="28" x2="200" y2="100" stroke="#C49639" stroke-opacity=".35"/></g><g transform="translate(800,0)">
+<text x="100" y="62" text-anchor="middle" fill="#E8C77A" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:38px;font-weight:800">8.45</text>
+<text x="100" y="92" text-anchor="middle" fill="#C9D3F0" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13px;font-weight:500">BCA CGPA</text>
+</g></svg>

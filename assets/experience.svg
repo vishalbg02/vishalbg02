@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250">
+<rect width="1000" height="250" rx="16" fill="#0D1B3E" stroke="#C49639" stroke-opacity=".4"/>
+<line x1="60" y1="40" x2="60" y2="215" stroke="#C49639" stroke-width="2" stroke-dasharray="4 6"/>
+<circle cx="60" cy="52" r="9" fill="#3DDC84"><animate attributeName="r" values="9;13;9" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.6;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="90" y="50" fill="#FFFFFF" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:19px;font-weight:700">App Developer Intern · Social Agent (Bricstal Pvt. Ltd.)</text>
+<text x="960" y="50" text-anchor="end" fill="#E8C77A" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600">May 2025 – Present</text>
+<text x="90" y="76" fill="#C9D3F0" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13.5px">Shipped Talnio on web (React 19) and mobile (Flutter) with Firebase real-time sync — live on Google Play.</text>
+<text x="90" y="97" fill="#C9D3F0" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13.5px">Geolocation + NFC attendance, automated PDF/Excel analytics, Agora video meetings, Google Generative AI automation.</text>
+<circle cx="60" cy="152" r="9" fill="#C49639"/>
+<text x="90" y="150" fill="#FFFFFF" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:19px;font-weight:700">Backend Developer Intern · Kaha Technologies (Cove IoT)</text>
+<text x="960" y="150" text-anchor="end" fill="#E8C77A" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600">May 2024 – Jul 2024</text>
+<text x="90" y="176" fill="#C9D3F0" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13.5px">Optimised Java Spring Boot services for boAt's IoT devices handling real-time data across concurrent connections.</text>
+<text x="90" y="197" fill="#C9D3F0" style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;font-size:13.5px">Secure REST APIs with Spring Data JPA &amp; Spring Security on Spring Cloud microservices; AngularJS/TS dashboards.</text>
+</svg>
